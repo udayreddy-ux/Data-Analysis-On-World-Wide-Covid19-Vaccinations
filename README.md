@@ -1,0 +1,2 @@
+# Data-Analysis-On-World-Wide-Covid19-Vaccinations
+    To analyse any of the data, firstly we should able to identify the path to solve the problem.  Our main goal is to analyse covid19 vaccinations progress and to predict the time to complete vaccination process to all the people. Also, we want to analyse how the count of new affecting cases and deaths varies based on the vaccination progress, how the countries are varying deaths based on smokers, diabetes and other medical issues.
